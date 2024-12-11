@@ -13,7 +13,7 @@ This is a simple Spring Boot project for managing blog posts and comments. Users
 - **Comments**: Users can add comments to posts.
 - **Update Comments**: Users can update and delete their comments.
 
-## Future Plans
+## Next Steps
 
 - **JWT Authentication**: Implement JWT authentication for user accounts.
 - **User Profiles**: Allow users to create accounts and view their posts.
